@@ -1,0 +1,9 @@
+C:\CacheManagement\CacheManagement\CacheManagement\bin\Debug\CacheManagement.dll.config
+C:\CacheManagement\CacheManagement\CacheManagement\bin\Debug\CacheManagement.dll
+C:\CacheManagement\CacheManagement\CacheManagement\bin\Debug\CacheManagement.pdb
+C:\CacheManagement\CacheManagement\CacheManagement\bin\Debug\System.Net.Http.Formatting.dll
+C:\CacheManagement\CacheManagement\CacheManagement\bin\Debug\Newtonsoft.Json.dll
+C:\CacheManagement\CacheManagement\CacheManagement\bin\Debug\System.Net.Http.Formatting.xml
+C:\CacheManagement\CacheManagement\CacheManagement\obj\Debug\CacheManagement.dll
+C:\CacheManagement\CacheManagement\CacheManagement\obj\Debug\CacheManagement.pdb
+C:\CacheManagement\CacheManagement\CacheManagement\obj\Debug\CacheManagement.csprojResolveAssemblyReference.cache
